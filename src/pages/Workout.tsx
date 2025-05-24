@@ -70,25 +70,25 @@ const Workout = () => {
           name: "Prancha",
           duration: "30s x 3 séries",
           description: "Mantenha o corpo reto, ombros alinhados",
-          videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
+          videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
         },
         {
           name: "Abdominais Tradicionais",
           duration: "15 rep x 3 séries",
           description: "Movimento controlado, mãos atrás da cabeça",
-          videoUrl: "https://www.youtube.com/embed/Xyd_fa5zoEU"
+          videoUrl: "https://www.youtube.com/embed/jDwoBqPH0jk"
         },
         {
           name: "Bicicleta no Ar",
           duration: "20 rep x 3 séries",
           description: "Alterne os joelhos em direção aos cotovelos",
-          videoUrl: "https://www.youtube.com/embed/CB2jHAExXI0"
+          videoUrl: "https://www.youtube.com/embed/9FGilxCbdz8"
         },
         {
           name: "Mountain Climbers",
           duration: "30s x 2 séries",
           description: "Movimento rápido, mantendo a prancha",
-          videoUrl: "https://www.youtube.com/embed/cnyTQDSE884"
+          videoUrl: "https://www.youtube.com/embed/wQq3ybaLd1E"
         }
       ]
     },
@@ -101,25 +101,25 @@ const Workout = () => {
           name: "Prancha Lateral",
           duration: "20s cada lado x 3",
           description: "Apoie-se no antebraço, corpo alinhado",
-          videoUrl: "https://www.youtube.com/embed/XeN_1WVTKkc"
+          videoUrl: "https://www.youtube.com/embed/K2VljzCC16g"
         },
         {
           name: "Scissor Kicks",
           duration: "20 rep x 3 séries",
           description: "Pernas alternadas, parte baixa das costas no chão",
-          videoUrl: "https://www.youtube.com/embed/0ytdGsUaTbE"
+          videoUrl: "https://www.youtube.com/embed/eEG7Zj5YkuE"
         },
         {
           name: "Russian Twists",
           duration: "25 rep x 3 séries",
           description: "Gire o tronco, pés elevados",
-          videoUrl: "https://www.youtube.com/embed/DJQXMO_X-vU"
+          videoUrl: "https://www.youtube.com/embed/wkD8rjkodUI"
         },
         {
           name: "Dead Bug",
           duration: "10 rep cada lado x 2",
           description: "Movimento controlado, core ativado",
-          videoUrl: "https://www.youtube.com/embed/4XLEnwUr1d8"
+          videoUrl: "https://www.youtube.com/embed/g_BYB0R-4Ws"
         }
       ]
     },
@@ -132,25 +132,25 @@ const Workout = () => {
           name: "Caminhada",
           duration: "15 minutos",
           description: "Ritmo moderado, respiração profunda",
-          videoUrl: "https://www.youtube.com/embed/kLh4nOzjaqQ"
+          videoUrl: "https://www.youtube.com/embed/A_1ZxSeUb5I"
         },
         {
           name: "Alongamento de Quadril",
           duration: "30s cada posição",
           description: "Relaxe a região lombar",
-          videoUrl: "https://www.youtube.com/embed/FSSDLDhbacc"
+          videoUrl: "https://www.youtube.com/embed/UGEpQ1BRx-4"
         },
         {
           name: "Respiração Profunda",
           duration: "5 minutos",
           description: "Inspire 4s, segure 4s, expire 4s",
-          videoUrl: "https://www.youtube.com/embed/YRPh_GaiL8s"
+          videoUrl: "https://www.youtube.com/embed/tybOi4hjZFQ"
         },
         {
           name: "Prancha Suave",
           duration: "20s x 2 séries",
           description: "Mantenha a posição com respiração calma",
-          videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
+          videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
         }
       ]
     },
@@ -163,25 +163,25 @@ const Workout = () => {
           name: "Hollow Body Hold",
           duration: "20s x 3 séries",
           description: "Lombar colada no chão, pernas e ombros elevados",
-          videoUrl: "https://www.youtube.com/embed/K5n4HTOqKcI"
+          videoUrl: "https://www.youtube.com/embed/LlDNef_Ztsc"
         },
         {
           name: "V-Ups",
           duration: "12 rep x 3 séries",
           description: "Suba pernas e tronco simultaneamente",
-          videoUrl: "https://www.youtube.com/embed/xSeWHV8n8vA"
+          videoUrl: "https://www.youtube.com/embed/7UVgs18Y1P4"
         },
         {
           name: "Prancha com Elevação de Perna",
           duration: "10 rep cada perna x 2",
           description: "Eleve uma perna por vez na prancha",
-          videoUrl: "https://www.youtube.com/embed/mJFCaOC8Qwg"
+          videoUrl: "https://www.youtube.com/embed/SW_C1A-rejs"
         },
         {
           name: "Burpees Modificados",
           duration: "8 rep x 3 séries",
           description: "Sem o salto, foque no movimento do core",
-          videoUrl: "https://www.youtube.com/embed/qLBImHhCXSw"
+          videoUrl: "https://www.youtube.com/embed/auBLPXO8Fww"
         }
       ]
     },
@@ -194,25 +194,25 @@ const Workout = () => {
           name: "Tabata Prancha",
           duration: "20s on, 10s off x 4",
           description: "Máxima intensidade por 20 segundos",
-          videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
+          videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
         },
         {
           name: "High Knees",
           duration: "30s x 3 séries",
           description: "Joelhos no peito, movimento rápido",
-          videoUrl: "https://www.youtube.com/embed/8opcQdC-V-U"
+          videoUrl: "https://www.youtube.com/embed/cDCXQolGjFQ"
         },
         {
           name: "Jumping Jacks",
           duration: "45s x 3 séries",
           description: "Movimento explosivo, braços e pernas",
-          videoUrl: "https://www.youtube.com/embed/iSSAk4XCsRA"
+          videoUrl: "https://www.youtube.com/embed/c4DAnQ6DtF8"
         },
         {
           name: "Abdominais Reverse",
           duration: "15 rep x 3 séries",
           description: "Eleve o quadril em direção ao peito",
-          videoUrl: "https://www.youtube.com/embed/0ytdGsUaTbE"
+          videoUrl: "https://www.youtube.com/embed/eEG7Zj5YkuE"
         }
       ]
     },
@@ -225,25 +225,25 @@ const Workout = () => {
           name: "Prancha Longa",
           duration: "45s x 3 séries",
           description: "Mantenha por mais tempo com respiração controlada",
-          videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
+          videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
         },
         {
           name: "Bear Crawl",
           duration: "30s x 3 séries",
           description: "Movimente-se em posição de urso",
-          videoUrl: "https://www.youtube.com/embed/Azrm7DxuJpI"
+          videoUrl: "https://www.youtube.com/embed/KLHkJt2kxj8"
         },
         {
           name: "Leg Raises",
           duration: "15 rep x 3 séries",
           description: "Pernas retas, movimento controlado",
-          videoUrl: "https://www.youtube.com/embed/0ytdGsUaTbE"
+          videoUrl: "https://www.youtube.com/embed/JB2oyawG9KI"
         },
         {
           name: "Flutter Kicks",
           duration: "45s x 3 séries",
           description: "Movimento rápido e constante das pernas",
-          videoUrl: "https://www.youtube.com/embed/ANVa9JcW01s"
+          videoUrl: "https://www.youtube.com/embed/eEG7Zj5YkuE"
         }
       ]
     },
@@ -256,25 +256,25 @@ const Workout = () => {
           name: "Circuito Completo",
           duration: "3 rounds",
           description: "Combine todos os exercícios favoritos",
-          videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
+          videoUrl: "https://www.youtube.com/embed/ZWdBqFLNljc"
         },
         {
           name: "Prancha Challenge",
           duration: "Máximo tempo",
           description: "Teste sua evolução desde o dia 1",
-          videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
+          videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
         },
         {
           name: "Celebração Ativa",
           duration: "10 minutos",
           description: "Movimento livre, dance, comemore!",
-          videoUrl: "https://www.youtube.com/embed/kLh4nOzjaqQ"
+          videoUrl: "https://www.youtube.com/embed/A_1ZxSeUb5I"
         },
         {
           name: "Alongamento Final",
           duration: "10 minutos",
           description: "Relaxe todo o corpo, respiração profunda",
-          videoUrl: "https://www.youtube.com/embed/FSSDLDhbacc"
+          videoUrl: "https://www.youtube.com/embed/UGEpQ1BRx-4"
         }
       ]
     }
