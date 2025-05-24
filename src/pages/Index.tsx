@@ -19,22 +19,22 @@ const Index = () => {
       name: "Prancha",
       duration: "30s x 3 séries",
       description: "Mantenha o corpo reto, ombros alinhados",
-      videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
+      videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
     }, {
       name: "Abdominais Tradicionais",
       duration: "15 rep x 3 séries",
       description: "Movimento controlado, mãos atrás da cabeça",
-      videoUrl: "https://www.youtube.com/embed/1fbU_MkV7NE"
+      videoUrl: "https://www.youtube.com/embed/Xyd_fa5zoEU"
     }, {
       name: "Bicicleta no Ar",
       duration: "20 rep x 3 séries",
       description: "Alterne os joelhos em direção aos cotovelos",
-      videoUrl: "https://www.youtube.com/embed/9FGilxCbdz8"
+      videoUrl: "https://www.youtube.com/embed/CB2jHAExXI0"
     }, {
       name: "Mountain Climbers",
       duration: "30s x 2 séries",
       description: "Movimento rápido, mantendo a prancha",
-      videoUrl: "https://www.youtube.com/embed/nmwgirgXLYM"
+      videoUrl: "https://www.youtube.com/embed/cnyTQDSE884"
     }]
   }, {
     day: 2,
@@ -44,22 +44,22 @@ const Index = () => {
       name: "Prancha Lateral",
       duration: "20s cada lado x 3",
       description: "Apoie-se no antebraço, corpo alinhado",
-      videoUrl: "https://www.youtube.com/embed/K2VljzCC16g"
+      videoUrl: "https://www.youtube.com/embed/XeN_1WVTKkc"
     }, {
       name: "Scissor Kicks",
       duration: "20 rep x 3 séries",
       description: "Pernas alternadas, parte baixa das costas no chão",
-      videoUrl: "https://www.youtube.com/embed/JB2oyawG9KI"
+      videoUrl: "https://www.youtube.com/embed/0ytdGsUaTbE"
     }, {
       name: "Russian Twists",
       duration: "25 rep x 3 séries",
       description: "Gire o tronco, pés elevados",
-      videoUrl: "https://www.youtube.com/embed/wkD8rjkodUI"
+      videoUrl: "https://www.youtube.com/embed/DJQXMO_X-vU"
     }, {
       name: "Dead Bug",
       duration: "10 rep cada lado x 2",
       description: "Movimento controlado, core ativado",
-      videoUrl: "https://www.youtube.com/embed/g_BYB0R-4Ws"
+      videoUrl: "https://www.youtube.com/embed/4XLEnwUr1d8"
     }]
   }, {
     day: 3,
@@ -84,7 +84,7 @@ const Index = () => {
       name: "Prancha Suave",
       duration: "20s x 2 séries",
       description: "Mantenha a posição com respiração calma",
-      videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
+      videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
     }]
   }, {
     day: 4,
@@ -94,17 +94,17 @@ const Index = () => {
       name: "Hollow Body Hold",
       duration: "20s x 3 séries",
       description: "Lombar colada no chão, pernas e ombros elevados",
-      videoUrl: "https://www.youtube.com/embed/LlDNef_Ew9E"
+      videoUrl: "https://www.youtube.com/embed/K5n4HTOqKcI"
     }, {
       name: "V-Ups",
       duration: "12 rep x 3 séries",
       description: "Suba pernas e tronco simultaneamente",
-      videoUrl: "https://www.youtube.com/embed/7UVgs18Y1P4"
+      videoUrl: "https://www.youtube.com/embed/xSeWHV8n8vA"
     }, {
       name: "Prancha com Elevação de Perna",
       duration: "10 rep cada perna x 2",
       description: "Eleve uma perna por vez na prancha",
-      videoUrl: "https://www.youtube.com/embed/SwBXwOIgNOY"
+      videoUrl: "https://www.youtube.com/embed/mJFCaOC8Qwg"
     }, {
       name: "Burpees Modificados",
       duration: "8 rep x 3 séries",
@@ -119,7 +119,7 @@ const Index = () => {
       name: "Tabata Prancha",
       duration: "20s on, 10s off x 4",
       description: "Máxima intensidade por 20 segundos",
-      videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
+      videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
     }, {
       name: "High Knees",
       duration: "30s x 3 séries",
@@ -134,7 +134,7 @@ const Index = () => {
       name: "Abdominais Reverse",
       duration: "15 rep x 3 séries",
       description: "Eleve o quadril em direção ao peito",
-      videoUrl: "https://www.youtube.com/embed/JB2oyawG9KI"
+      videoUrl: "https://www.youtube.com/embed/0ytdGsUaTbE"
     }]
   }, {
     day: 6,
@@ -144,7 +144,7 @@ const Index = () => {
       name: "Prancha Longa",
       duration: "45s x 3 séries",
       description: "Mantenha por mais tempo com respiração controlada",
-      videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
+      videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
     }, {
       name: "Bear Crawl",
       duration: "30s x 3 séries",
@@ -154,7 +154,7 @@ const Index = () => {
       name: "Leg Raises",
       duration: "15 rep x 3 séries",
       description: "Pernas retas, movimento controlado",
-      videoUrl: "https://www.youtube.com/embed/JB2oyawG9KI"
+      videoUrl: "https://www.youtube.com/embed/0ytdGsUaTbE"
     }, {
       name: "Flutter Kicks",
       duration: "45s x 3 séries",
@@ -169,12 +169,12 @@ const Index = () => {
       name: "Circuito Completo",
       duration: "3 rounds",
       description: "Combine todos os exercícios favoritos",
-      videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
+      videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
     }, {
       name: "Prancha Challenge",
       duration: "Máximo tempo",
       description: "Teste sua evolução desde o dia 1",
-      videoUrl: "https://www.youtube.com/embed/pSHjTRCQxIw"
+      videoUrl: "https://www.youtube.com/embed/B296mZDhrP4"
     }, {
       name: "Celebração Ativa",
       duration: "10 minutos",
@@ -200,26 +200,30 @@ const Index = () => {
 
   const progressPercentage = completedDays.length / 7 * 100;
 
-  return <div className="min-h-screen bg-gradient-to-br from-orange-50 via-white to-purple-50">
+  return <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-800">
       {/* Header */}
-      <div className="bg-gradient-to-r from-orange-500 to-purple-600 text-white p-6">
+      <div className="bg-gradient-to-r from-gray-900 via-black to-purple-900 text-white p-6 border-b border-gray-800">
         <div className="max-w-4xl mx-auto">
           <div className="flex items-center gap-3 mb-4">
-            <div className="bg-white/20 p-2 rounded-full">
-              <Flame className="h-6 w-6" />
+            <div className="bg-gradient-to-r from-orange-500 to-purple-600 p-3 rounded-full">
+              <Flame className="h-8 w-8 text-white" />
             </div>
-            <h1 className="font-bold text-3xl">DESAFIO: Queima Barriga 7 Dias</h1>
+            <h1 className="font-bold text-4xl bg-gradient-to-r from-orange-400 to-purple-400 bg-clip-text text-transparent">
+              DESAFIO: Queima Barriga 7 Dias
+            </h1>
           </div>
-          <p className="text-orange-100 text-lg mb-4">Queime aquela gordurinha chata e defina sua barriga em casa em até 7 dias.
-Clique nos cards e acesse os exercícios de cada dia.</p>
+          <p className="text-gray-300 text-lg mb-6">
+            Queime aquela gordurinha chata e defina sua barriga em casa em até 7 dias.
+            Clique nos cards e acesse os exercícios de cada dia.
+          </p>
           
           {/* Progress Bar */}
-          <div className="bg-white/20 p-4 rounded-lg">
+          <div className="bg-gray-800 p-4 rounded-lg border border-gray-700">
             <div className="flex items-center justify-between mb-2">
-              <span className="text-sm font-medium">Progresso Geral</span>
-              <span className="text-sm">{completedDays.length}/7 dias</span>
+              <span className="text-sm font-medium text-gray-300">Progresso Geral</span>
+              <span className="text-sm text-orange-400 font-bold">{completedDays.length}/7 dias</span>
             </div>
-            <Progress value={progressPercentage} className="h-2" />
+            <Progress value={progressPercentage} className="h-3 bg-gray-700" />
           </div>
         </div>
       </div>
@@ -227,28 +231,40 @@ Clique nos cards e acesse os exercícios de cada dia.</p>
       <div className="max-w-4xl mx-auto p-6">
         {/* Days Grid */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-          {workoutPlan.map(workout => <Card key={workout.day} className={`cursor-pointer transition-all duration-300 hover:shadow-lg hover:-translate-y-1 ${completedDays.includes(workout.day) ? 'bg-gradient-to-br from-green-50 to-emerald-50 border-green-200' : 'hover:bg-gradient-to-br hover:from-orange-50 hover:to-purple-50'}`} onClick={() => navigate(`/workout/${workout.day}`)}>
+          {workoutPlan.map(workout => <Card 
+            key={workout.day} 
+            className={`cursor-pointer transition-all duration-300 hover:shadow-xl hover:-translate-y-2 border ${
+              completedDays.includes(workout.day) 
+                ? 'bg-gradient-to-br from-green-900/50 to-emerald-900/50 border-green-400 shadow-green-400/20' 
+                : 'bg-gray-800 border-gray-700 hover:bg-gray-700 hover:border-orange-400 hover:shadow-orange-400/20'
+            } shadow-lg`} 
+            onClick={() => navigate(`/workout/${workout.day}`)}
+          >
               <CardHeader className="pb-3">
                 <div className="flex items-center justify-between">
                   <div className="flex items-center gap-2">
-                    <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${completedDays.includes(workout.day) ? 'bg-green-500 text-white' : 'bg-gradient-to-r from-orange-500 to-purple-600 text-white'}`}>
-                      {completedDays.includes(workout.day) ? <CheckCircle className="h-4 w-4" /> : workout.day}
+                    <div className={`w-10 h-10 rounded-full flex items-center justify-center text-sm font-bold ${
+                      completedDays.includes(workout.day) 
+                        ? 'bg-green-500 text-white' 
+                        : 'bg-gradient-to-r from-orange-500 to-purple-600 text-white'
+                    }`}>
+                      {completedDays.includes(workout.day) ? <CheckCircle className="h-5 w-5" /> : workout.day}
                     </div>
                     <div>
-                      <CardTitle className="text-lg">Dia {workout.day}</CardTitle>
-                      <p className="text-sm text-gray-600">{workout.title}</p>
+                      <CardTitle className="text-lg text-white">Dia {workout.day}</CardTitle>
+                      <p className="text-sm text-gray-400">{workout.title}</p>
                     </div>
                   </div>
-                  <ExternalLink className="h-4 w-4 text-gray-400" />
+                  <ExternalLink className="h-4 w-4 text-orange-400" />
                 </div>
               </CardHeader>
               <CardContent>
-                <div className="flex items-center gap-4 text-sm text-gray-600">
+                <div className="flex items-center gap-4 text-sm text-gray-400">
                   <div className="flex items-center gap-1">
-                    <Clock className="h-4 w-4" />
-                    {workout.duration}
+                    <Clock className="h-4 w-4 text-orange-400" />
+                    <span className="text-gray-300">{workout.duration}</span>
                   </div>
-                  <Badge variant="secondary">
+                  <Badge variant="secondary" className="bg-purple-900/50 text-purple-300 border border-purple-600">
                     {workout.exercises.length} exercícios
                   </Badge>
                 </div>
@@ -257,7 +273,7 @@ Clique nos cards e acesse os exercícios de cada dia.</p>
         </div>
 
         {/* Motivation Section */}
-        {completedDays.length === 7 && <Card className="mt-8 bg-gradient-to-r from-green-500 to-emerald-600 text-white border-0">
+        {completedDays.length === 7 && <Card className="mt-8 bg-gradient-to-r from-green-600 to-emerald-700 text-white border-0 shadow-xl">
             <CardContent className="p-6 text-center">
               <div className="mb-4">
                 <div className="bg-white/20 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -272,30 +288,30 @@ Clique nos cards e acesse os exercícios de cada dia.</p>
           </Card>}
 
         {/* Tips Section */}
-        <Card className="mt-8 border-0 bg-gradient-to-r from-blue-50 to-indigo-50">
-          <CardHeader>
-            <CardTitle className="flex items-center gap-2 text-blue-800">
-              <Calendar className="h-5 w-5" />
+        <Card className="mt-8 bg-gray-800 border-gray-700">
+          <CardHeader className="border-b border-gray-700">
+            <CardTitle className="flex items-center gap-2 text-white">
+              <Calendar className="h-5 w-5 text-orange-400" />
               Dicas Importantes
             </CardTitle>
           </CardHeader>
-          <CardContent>
+          <CardContent className="p-6">
             <div className="grid md:grid-cols-2 gap-4 text-sm">
-              <div className="space-y-2">
-                <p className="font-medium text-blue-700">💧 Hidratação</p>
-                <p className="text-blue-600">Beba pelo menos 2L de água por dia</p>
+              <div className="space-y-2 p-4 bg-gray-700 rounded-lg border border-gray-600">
+                <p className="font-medium text-orange-400">💧 Hidratação</p>
+                <p className="text-gray-300">Beba pelo menos 2L de água por dia</p>
               </div>
-              <div className="space-y-2">
-                <p className="font-medium text-blue-700">🥗 Alimentação</p>
-                <p className="text-blue-600">Mantenha uma dieta equilibrada e rica em fibras</p>
+              <div className="space-y-2 p-4 bg-gray-700 rounded-lg border border-gray-600">
+                <p className="font-medium text-orange-400">🥗 Alimentação</p>
+                <p className="text-gray-300">Mantenha uma dieta equilibrada e rica em fibras</p>
               </div>
-              <div className="space-y-2">
-                <p className="font-medium text-blue-700">😴 Descanso</p>
-                <p className="text-blue-600">Durma 7-8 horas por noite para recuperação</p>
+              <div className="space-y-2 p-4 bg-gray-700 rounded-lg border border-gray-600">
+                <p className="font-medium text-orange-400">😴 Descanso</p>
+                <p className="text-gray-300">Durma 7-8 horas por noite para recuperação</p>
               </div>
-              <div className="space-y-2">
-                <p className="font-medium text-blue-700">🎯 Consistência</p>
-                <p className="text-blue-600">A regularidade é mais importante que a intensidade</p>
+              <div className="space-y-2 p-4 bg-gray-700 rounded-lg border border-gray-600">
+                <p className="font-medium text-orange-400">🎯 Consistência</p>
+                <p className="text-gray-300">A regularidade é mais importante que a intensidade</p>
               </div>
             </div>
           </CardContent>
@@ -303,4 +319,5 @@ Clique nos cards e acesse os exercícios de cada dia.</p>
       </div>
     </div>;
 };
+
 export default Index;
